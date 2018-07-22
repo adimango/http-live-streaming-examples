@@ -41,6 +41,7 @@ It's great for faking a server, sharing code examples, testing your MVP.
  ```bash
 https://private-cd8f11-httplivestreaming.apiary-mock.com/streaming
  ```
-
-
+ 
+## Questions
+If you have questions about any aspect of this collection, please feel free to [open an issue](https://github.com/adimango/http-live-streaming-examples/issues/new).
 
